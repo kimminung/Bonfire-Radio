@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Apple Developer Program(유료) 팀으로 전환한 뒤 CODE_SIGN_ENTITLEMENTS를 이 파일로 바꾸면 SharePlay가 활성화됩니다.
+	     개인(무료) 팀은 Group Activities 권한을 지원하지 않아 기본 MyApp.entitlements에서는 제외했습니다. -->
+	<key>com.apple.developer.group-session</key>
+	<true/>
+</dict>
+</plist>
