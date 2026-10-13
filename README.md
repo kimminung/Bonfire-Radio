@@ -2,6 +2,10 @@
 
 **모닥불에 둘러앉아, 한 사람의 목소리와 음악을 함께 듣는 visionOS SharePlay 앱**
 
+
+https://github.com/user-attachments/assets/81ce63aa-8654-423d-a46a-5e052442a176
+
+
 Apple Vision Pro를 쓴 사람들이 밤하늘 스카이돔 아래 모닥불을 중심으로 원형 좌석에 모여, 방장 한 명이 진행하는 라디오 방송(목소리 + 음악)을 함께 듣습니다. 모닥불은 재생 중인 소리에 실시간으로 반응하는 파티클 비주얼라이저이고, 누구나 모닥불에 아이템을 던져 불꽃의 색을 바꿀 수 있습니다.
 
 ![platform](https://img.shields.io/badge/platform-visionOS%2027-black)
